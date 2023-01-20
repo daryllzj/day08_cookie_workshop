@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45.1">
+<file name="/Users/DarylLee/ibf_work/workshop_practice/client_server_practice/client_practice/src/main/java/sdf/App.java">
+<error line="29" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="30" column="49" severity="error" message="&apos;3000&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="38" column="13" severity="error" message="Each variable declaration must be in its own statement." source="com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck"/>
+<error line="44" column="51" severity="error" message="String literal expressions should be on the left side of an equalsIgnoreCase comparison." source="com.puppycrawl.tools.checkstyle.checks.coding.EqualsAvoidNullCheck"/>
+<error line="56" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+</checkstyle>
